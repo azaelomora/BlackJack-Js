@@ -18,3 +18,5 @@ Juego de BlackJack: "BlackJack" en lenguaje JS, en el cual, jugará en contra de
  ***
 
  ```
+
+Link del juego: "```https://azaelomora.github.io/BlackJack-Js/```"
